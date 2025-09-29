@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Research Assistant at HKUST-GZ | Former ML Engineer at Alibaba & Ant Group | M.Sc., King’s College London
+subtitle: Email: liuxianyang98@gmail.com
 
 profile:
   align: right
@@ -26,6 +26,8 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+
+I am currently a Research Assistant at The Hong Kong University of Science and Technology (Guangzhou), working on LLM-based reasoning. Before that, I was a Machine Learning Engineer at Alibaba and Ant Group, where I worked on multi-agent frameworks for LLM/VLM applications, contributing to the open-source project MuAgent. I received my M.Sc. from King’s College London and my B.Sc. from Coventry University.
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
