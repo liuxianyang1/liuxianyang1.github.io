@@ -27,6 +27,16 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hello, I am a Research Assistant at **HKUST-GZ** focusing on **LLM/VLM reasoning and multi-agent systems**.  
-Previously, I worked as an ML Engineer at **Alibaba & Ant Group**, contributing to the open-source **MuAgent** framework.  
-I hold an M.Sc. from **King’s College London** and a B.Sc. from **Coventry University**.
+I am currently a **Research Assistant at The Hong Kong University of Science and Technology (Guangzhou)**, working on **LLM-based reasoning**. Before that, I was a **Machine Learning Engineer at Alibaba and Ant Group**, where I worked on **multi-agent frameworks for LLM/VLM applications**, contributing to the open-source project **MuAgent**. I received my **M.Sc. from King’s College London** and my **B.Sc. from Coventry University**.
+
+My **research interests** center on building intelligent reasoning systems with large models and their real-world applications:
+
+- **LLM/VLM Reasoning**  
+  - **Agent Planning:** enabling models to plan actions in knowledge-intensive scenarios by leveraging prior experiences (work from *MuAgent*).  
+  - **LLM Reasoning for Mathematics:** reducing the need for manual annotation by synthesizing high-quality reasoning data to enhance mathematical reasoning (*AgenticMath*).  
+  - **Tool Use in Multi-Agent Frameworks:** empowering agents to operate web interfaces and external tools to complete complex tasks.
+
+- **AI for Healthcare**  
+  - **Multimodal Reasoning:** integrating textual and visual data for better clinical decision support.  
+  - **Medical RAG:** addressing the limitations of smaller language models in **biomedical entity linking** and mitigating domain-specific knowledge gaps (focus of my master’s dissertation).
+
