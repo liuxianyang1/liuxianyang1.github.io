@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Research Assistant at HKUST-GZ | Former ML Engineer at Alibaba & Ant Group | M.Sc., King’s College London
 
 profile:
   align: right
