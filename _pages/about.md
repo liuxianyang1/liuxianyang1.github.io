@@ -6,7 +6,7 @@ subtitle: Research Assistant at HKUST-GZ | Former ML Engineer at Alibaba & Ant G
 
 profile:
   align: right
-  image: personal_photo.JPG
+  image: personal_photo_3_01.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
 
