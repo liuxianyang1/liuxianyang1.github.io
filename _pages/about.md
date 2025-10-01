@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Research Assistant at HKUST-GZ | Former ML Engineer at Alibaba & Ant Group | M.Sc., King’s College London
+subtitle: Email: liuxianyang98@gmail.com
 
 profile:
   align: right
