@@ -24,12 +24,12 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am currently a **Research Assistant** at **The Hong Kong University of Science and Technology (Guangzhou)**, working on **LLM reasoning and data synthesis** with Prof. [Jiaheng Wei](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/WEI-Jiaheng/jiahengwei). Previously, I was a **Machine Learning Engineer** at **Ant Group**, where I focused on **multi-agent systems for LLM/VLM applications**, contributing to the open-source project **MuAgent**. I received my **M.Sc. in Applied Statistical Modelling and Health Informatics from King’s College London** and my **B.Sc. in Computer Science from Coventry University**.
+I am currently a Research Assistant at The Hong Kong University of Science and Technology (Guangzhou)**, working on **LLM reasoning and data synthesis**, advised by Prof. [Jiaheng Wei](https://sites.google.com/ucsc.edu/jiahengwei). Previously, I was a Machine Learning Engineer at Ant Group, where I focused on **Multi-agent Systems for LLM/VLM applications**, contributing to the open-source project *[MuAgent](https://github.com/codefuse-ai/CodeFuse-muAgent/tree/main)*. I received Master of Science degree (Applied Statistical Modelling & Health Informatics) from King’s College London and B.S. degree (Computer Science) from Coventry University.
 
 My research interests focus on developing intelligent reasoning systems with large models and exploring their real-world applications:
 
 - **LLM/VLM Reasoning**  
-  - **Agent Planning:** enhancing the planning ability of large models in industry scenarios (*MuAgent*).  
+  - **Agent Planning:** enhancing the planning ability of large models in industry scenarios (*[MuAgent](https://github.com/codefuse-ai/CodeFuse-muAgent/tree/main)*).  
   - **LLM Reasoning:** reducing reliance on costly human-labeled data by generating high-quality synthetic reasoning data to improve model reasoning ability (*AgenticMath*, under submission to ICLR 2026).  
   - **Tool Use:** enabling agents to interact with web interfaces and external tools to solve complex tasks (*WebAgent*).  
 
