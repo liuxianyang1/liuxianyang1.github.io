@@ -405,10 +405,7 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "news-completed-my-bachelor-s-degree-with-first-class-honours",
+            },},{id: "news-completed-my-bachelor-s-degree-with-first-class-honours",
           title: 'Completed my Bachelor’s degree with First-Class Honours.',
           description: "",
           section: "News",},{id: "news-completed-my-master-s-degree-with-the-dissertation-graded-distinction",
@@ -416,6 +413,9 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-i-jointed-ant-group-as-machine-learning-engineer",
           title: 'I jointed Ant Group as Machine Learning Engineer.',
+          description: "",
+          section: "News",},{id: "news-jointed-the-hong-kong-university-of-science-and-technology-guangzhou-as-research-assistant",
+          title: 'Jointed The Hong Kong University of Science and Technology (Guangzhou) as Research Assistant....',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
