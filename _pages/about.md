@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Email liuxianyang98@gmail.com
+subtitle: ✉️ liuxianyang98@gmail.com
 
 profile:
   align: right
