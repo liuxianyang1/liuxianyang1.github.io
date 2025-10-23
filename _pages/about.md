@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
 
-selected_papers: false # includes a list of papers marked as "selected={true}"
+selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 
 announcements:
@@ -30,7 +30,7 @@ My research interests focus on developing intelligent reasoning systems with lar
 
 - **LLM/VLM Reasoning**  
   - **Agent Planning:** enhancing the planning ability of large models in business scenarios ([MuAgent](https://github.com/codefuse-ai/CodeFuse-muAgent/tree/main)).  
-  - **Post-training & Reasoning:** reducing reliance on costly human-labeled data by generating high-quality synthetic reasoning data to improve model reasoning ability (AgenticMath, Submitted to ICLR 2026, will release paper and code soon).  
+  - **Post-training & Reasoning:** reducing reliance on costly human-labeled data by generating high-quality synthetic reasoning data to improve model reasoning ability ([AgenticMath](https://arxiv.org/abs/2510.19361#)).  
   - **Web Agent:** enabling agents to interact with web interfaces and external tools to solve complex user's tasks (WebAgent project in ANT group).  
 
 - **AI for Healthcare**  
