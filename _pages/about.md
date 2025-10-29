@@ -28,7 +28,7 @@ I am currently a Research Assistant at The Hong Kong University of Science and T
 
 My research interests focus on developing intelligent reasoning systems with large models and exploring their real-world applications:
 
-- **LLM/VLM Reasoning**  
+- **Large Language Model and Vision-Language Model**  
   - **Agent Planning:** enhancing the planning ability of large models in business scenarios [[MuAgent](https://github.com/codefuse-ai/CodeFuse-muAgent/tree/main)].  
   - **Post-training & Reasoning:** reducing reliance on costly human-labeled data by generating high-quality synthetic reasoning data to improve model reasoning ability [[AgenticMath](https://arxiv.org/abs/2510.19361#)].  
   - **Web Agent:** enabling agents to interact with web interfaces and external tools to solve complex user's tasks (working at ANT group).  
