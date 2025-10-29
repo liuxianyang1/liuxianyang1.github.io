@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-We are excited to announce our new open-source project on GitHub: [MuAgent](https://github.com/codefuse-ai/CodeFuse-muAgent), an innovative Multi-Agent Framework Driven by Knowledge-Graph Engine.
+🎉We are excited to announce our new open-source project on GitHub: [MuAgent](https://github.com/codefuse-ai/CodeFuse-muAgent), an innovative Multi-Agent Framework Driven by Knowledge-Graph Engine.
