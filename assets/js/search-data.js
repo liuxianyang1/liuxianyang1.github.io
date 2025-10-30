@@ -401,7 +401,7 @@ ninja.data = [{
           title: 'I jointed Ant Group as Machine Learning Engineer.',
           description: "",
           section: "News",},{id: "news-we-are-excited-to-announce-our-new-open-source-project-on-github-muagent-an-innovative-multi-agent-framework-driven-by-knowledge-graph-engine",
-          title: '🎉We are excited to announce our new open-source project on GitHub: MuAgent, an...',
+          title: '🎉 We are excited to announce our new open-source project on GitHub: MuAgent,...',
           description: "",
           section: "News",},{id: "news-jointed-the-hong-kong-university-of-science-and-technology-guangzhou-as-research-assistant",
           title: 'Jointed The Hong Kong University of Science and Technology (Guangzhou) as Research Assistant....',
