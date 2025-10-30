@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-🎉Check out our new paper in arxiv: [AgenticMath: Enhancing LLM Reasoning via Agentic-based Math Data Generation](https://arxiv.org/abs/2510.19361).
+🎉 Check out our new paper in arxiv: [AgenticMath: Enhancing LLM Reasoning via Agentic-based Math Data Generation](https://arxiv.org/abs/2510.19361).
