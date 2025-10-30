@@ -407,7 +407,7 @@ ninja.data = [{
           title: 'Jointed The Hong Kong University of Science and Technology (Guangzhou) as Research Assistant....',
           description: "",
           section: "News",},{id: "news-check-out-our-new-paper-in-arxiv-agenticmath-enhancing-llm-reasoning-via-agentic-based-math-data-generation",
-          title: '🎉Check out our new paper in arxiv: AgenticMath: Enhancing LLM Reasoning via Agentic-based...',
+          title: '🎉 Check out our new paper in arxiv: AgenticMath: Enhancing LLM Reasoning via...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
