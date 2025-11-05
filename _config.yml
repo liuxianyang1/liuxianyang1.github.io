@@ -173,7 +173,6 @@ exclude:
   - _pages/blog.md.md
   - _pages/books.md.md
   - _pages/profiles.md
-  - _pages/publications.md
   - _pages/blog.md
   - _pages/cv.md
   - _pages/projects.md
