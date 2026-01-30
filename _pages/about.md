@@ -30,7 +30,7 @@ My research interests focus on developing and benchmarking **Multi-Agent LLM Sys
 
 - **Evaluation & Benchmark:** exploring multi-agent LLM systems for buyer-seller transaction negotiations [AgenticPay] (ICML 2026 under review, arXiv coming soon). 📍 UC Berkeley  
  
-- **Post-training & Reasoning:** generating synthetic reasoning data via multi-agent frameworks to enhance mathematical reasoning [[AgenticMath](https://arxiv.org/abs/2510.19361#)]. 📍 HKUST(GZ)  
+- **Post-training & Reasoning:** generating synthetic reasoning data via multi-agent frameworks to enhance mathematical reasoning [[AgenticMath](https://arxiv.org/abs/2510.19361#)] (ACL 2026 under review). 📍 HKUST(GZ)  
 
 - **Multi-Agent Framework:** developing knowledge graph-driven agent orchestration framework that combines LLM with Eventic Knowledge Graph (EKG) for complex reasoning and online collaboration [[MuAgent](https://github.com/codefuse-ai/CodeFuse-muAgent/tree/main) ![](https://img.shields.io/github/stars/codefuse-ai/CodeFuse-muAgent?style=social)]. 📍 Ant Group 
 
