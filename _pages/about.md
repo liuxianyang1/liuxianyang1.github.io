@@ -28,7 +28,7 @@ I am currently a Research Assistant at UC Berkeley, working with Postdoctoral Re
 
 My research interests focus on developing and benchmarking **Multi-Agent LLM Systems** to enhance reasoning capabilities and enable complex real-world interactions:
 
-- **Evaluation & Benchmark:** exploring multi-agent LLM systems for buyer-seller transaction negotiations [AgenticPay] (ICML 2026 under review, arXiv coming soon,). 📍 UC Berkeley  
+- **Evaluation & Benchmark:** exploring multi-agent LLM systems for buyer-seller transaction negotiations [AgenticPay] (ICML 2026 under review, arXiv coming soon). 📍 UC Berkeley  
  
 - **Post-training & Reasoning:** generating synthetic reasoning data via multi-agent frameworks to enhance mathematical reasoning [[AgenticMath](https://arxiv.org/abs/2510.19361#)]. 📍 HKUST(GZ)  
 
