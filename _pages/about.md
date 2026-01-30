@@ -29,7 +29,7 @@ I am currently a Research Assistant at UC Berkeley, working on **LLM/VLM Reasoni
 My research interests focus on developing intelligent reasoning systems with large models and exploring their real-world applications:
 
 - **Agentic AI**  
-  - **Multi-Agent Systems:** developing collaborative agent frameworks for complex task solving and business scenario planning [[MuAgent](https://github.com/codefuse-ai/CodeFuse-muAgent/tree/main)].  
+  - **Multi-Agent Systems:** developing knowledge graph-driven agent orchestration framework that combines LLM with Enterprise Knowledge Graph (EKG) for complex reasoning and online collaboration [[MuAgent](https://github.com/codefuse-ai/CodeFuse-muAgent/tree/main) ![](https://img.shields.io/github/stars/codefuse-ai/CodeFuse-muAgent?style=social)].  
   - **Post-training & Reasoning:** reducing reliance on costly human-labeled data by generating high-quality synthetic reasoning data through multi-agent frameworks to improve model reasoning ability in mathematical reasoning [[AgenticMath](https://arxiv.org/abs/2510.19361#)].  
   - **Evaluation & Benchmark** exploring multi-agent LLM systems for buyer-seller transaction negotiations [[AgenticPay](https://arxiv.org/abs/XXXX.XXXXX)] (ICML 2026 under review).  
 
