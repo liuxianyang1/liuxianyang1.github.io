@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-🎉  Our [AgenticPay](https://arxiv.org/pdf/2602.06008) paper is accepted by [ICLR 2026 AIMS Workshop](https://alimama-tech.github.io/aims-2026/)!
+🎉  Our [AgenticPay](https://arxiv.org/pdf/2602.06008) paper is accepted by [ICLR 2026 AIMS Workshop](https://iclr.cc/)!
