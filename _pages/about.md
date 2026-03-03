@@ -24,7 +24,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am currently a Research Assistant (Remote) at UC Berkeley, working with Postdoctoral Researcher [Shangding Gu](https://people.eecs.berkeley.edu/~shangding.gu/index.html) and Prof. [Dawn Song](https://people.eecs.berkeley.edu/~dawnsong/). Previously, I was a Research Assistant at The Hong Kong University of Science and Technology (Guangzhou), advised by Prof. [Jiaheng Wei](https://sites.google.com/ucsc.edu/jiahengwei). Before that, I was a Machine Learning Engineer at [Ant Group](https://www.antgroup.com/en) from July 2024 to July 2025. I received my Master's degree from King's College London.
+I am currently a Research Assistant (remote) at UC Berkeley, working with Postdoctoral Researcher [Shangding Gu](https://people.eecs.berkeley.edu/~shangding.gu/index.html) and Prof. [Dawn Song](https://people.eecs.berkeley.edu/~dawnsong/). Previously, I was a Research Assistant at The Hong Kong University of Science and Technology (Guangzhou), advised by Prof. [Jiaheng Wei](https://sites.google.com/ucsc.edu/jiahengwei). Before that, I was a Machine Learning Engineer at [Ant Group](https://www.antgroup.com/en) from July 2024 to July 2025. I received my Master's degree from King's College London.
 
 My research interests focus on developing and benchmarking **Multi-Agent LLM Systems** to enhance reasoning capabilities and enable complex real-world interactions:
 
