@@ -5,4 +5,6 @@ inline: true
 related_posts: false
 ---
 
-🎉 Check out our new paper in arxiv: [AgenticPay: A Multi-Agent LLM Negotiation System for Buyer–Seller Transactions](https://arxiv.org/pdf/2602.06008).
+
+🎉 Our [AgenticMath](https://arxiv.org/abs/2510.19361) paper is accepted by [ICLR 2026 DATA-FM Workshop](https://iclr.cc/)!
+
