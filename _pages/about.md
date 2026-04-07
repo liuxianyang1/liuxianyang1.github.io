@@ -28,9 +28,9 @@ I am currently a Research Assistant (remote) at UC Berkeley, working with Postdo
 
 My research interests focus on developing and benchmarking **Multi-Agent LLM/VLM Systems** to enhance reasoning capabilities and enable complex real-world interactions:
 
-- **Evaluation & Benchmark:** exploring multi-agent LLM/VLM systems for buyer-seller transaction negotiations [[AgenticPay](https://arxiv.org/pdf/2602.06008)] (ICML 2026 under review). 📍UC Berkeley  
+- **Evaluation & Benchmark:** exploring multi-agent LLM/VLM systems for buyer-seller transaction negotiations [[AgenticPay](https://arxiv.org/pdf/2602.06008)]. 📍UC Berkeley  
  
-- **Post-training & Reasoning:** generating synthetic reasoning data via multi-agent frameworks to enhance mathematical reasoning [[AgenticMath](https://arxiv.org/pdf/2510.19361)] (ACL 2026 under review). 📍HKUST(GZ)  
+- **Post-training & Reasoning:** generating synthetic reasoning data via multi-agent frameworks to enhance mathematical reasoning [[AgenticMath](https://arxiv.org/pdf/2510.19361)]. 📍HKUST(GZ)  
 
 - **Multi-Agent Framework:** developing knowledge graph-driven agent orchestration framework that combines LLM/VLM with Eventic Knowledge Graph (EKG) for complex reasoning and online collaboration [[MuAgent](https://github.com/codefuse-ai/CodeFuse-muAgent) ![](https://img.shields.io/github/stars/codefuse-ai/CodeFuse-muAgent?style=social)]. 📍Ant Group 
 
