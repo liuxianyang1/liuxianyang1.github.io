@@ -24,13 +24,13 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am currently a Research Assistant (remote) at UC Berkeley, working with Postdoctoral Researcher [Shangding Gu](https://people.eecs.berkeley.edu/~shangding.gu/index.html) and Prof. [Dawn Song](https://people.eecs.berkeley.edu/~dawnsong/). Previously, I was a Research Assistant at The Hong Kong University of Science and Technology (Guangzhou), advised by Prof. [Jiaheng Wei](https://sites.google.com/ucsc.edu/jiahengwei). Before that, I was a Machine Learning Engineer at [Ant Group](https://www.antgroup.com/en) from July 2024 to July 2025. I received my Master's degree from King's College London.
+I am currently a Research Assistant at UC Berkeley, working with Postdoctoral Researcher [Shangding Gu](https://people.eecs.berkeley.edu/~shangding.gu/index.html) and Prof. [Dawn Song](https://people.eecs.berkeley.edu/~dawnsong/). Previously, I was a Research Assistant at The Hong Kong University of Science and Technology (Guangzhou), advised by Prof. [Jiaheng Wei](https://sites.google.com/ucsc.edu/jiahengwei). Before that, I was a Machine Learning Engineer at [Ant Group](https://www.antgroup.com/en) from July 2024 to July 2025. I received my Master's degree from King's College London.
 
 My research interests focus on developing and benchmarking **Multi-Agent LLM/VLM Systems** to enhance reasoning capabilities and enable complex real-world interactions:
 
-- **Evaluation & Benchmark:** exploring multi-agent LLM/VLM systems for buyer-seller transaction negotiations [[AgenticPay](https://arxiv.org/pdf/2602.06008)]. 📍UC Berkeley  
+- **Evaluation & Benchmark:** exploring multi-agent LLM/VLM systems for buyer-seller transaction negotiations [[AgenticPay](https://arxiv.org/pdf/2602.06008)] (**NeurIPS 2026 Main Track**). 📍UC Berkeley  
  
-- **Post-training & Reasoning:** generating synthetic reasoning data via multi-agent frameworks to enhance mathematical reasoning [[AgenticMath](https://arxiv.org/pdf/2510.19361)]. 📍HKUST(GZ)  
+- **Post-training & Reasoning:** generating synthetic reasoning data via multi-agent frameworks to enhance mathematical reasoning [[AgenticMath](https://arxiv.org/pdf/2510.19361)] (AAAI 2027 stage 2 under review). 📍HKUST(GZ)  
 
 - **Multi-Agent Framework:** developing knowledge graph-driven agent orchestration framework that combines LLM/VLM with Eventic Knowledge Graph (EKG) for complex reasoning and online collaboration [[MuAgent](https://github.com/codefuse-ai/CodeFuse-muAgent) ![](https://img.shields.io/github/stars/codefuse-ai/CodeFuse-muAgent?style=social)]. 📍Ant Group 
 
